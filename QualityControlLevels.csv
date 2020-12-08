@@ -1,0 +1,3 @@
+QualityControlLevelCode,Definition,Explanation
+CC,Data consistency verified,"Time series, including those required to compute derived data, were individually verified and compared with time series from different monitoring points or sites. When needed, missing or inconsistent data were filled or replaced with data obtained by regression methods. "
+RD,Data consistency not verified,Raw data.

@@ -1,0 +1,5 @@
+VariableCode,VariableName,VariableUnitsName,DataType,SampleMedium,ValueType,IsRegular,TimeSupport,TimeUnitsName,GeneralCategory,NoDataValue
+GWL,Water Level,meter,Average,Groundwater,Field observation,TRUE,1,day,Hydrology,-9999
+AVG_P,Precipitation,millimeters per day,Cumulative,Precipitation,Derived value,TRUE,1,day,Climate,-9999
+AVG_RET,"Evapotranspiration, potential",millimeters per day,Cumulative,Air,Derived value,TRUE,1,day,Climate,-9999
+Q,Streamflow,cubic meters per second,Average,Surface water,Derived value,TRUE,1,day,Hydrology,-9999
